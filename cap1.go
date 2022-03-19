@@ -19,3 +19,5 @@ func main(){
 /* Agora vemos uma declaração de função
 As funções são como blocos de construção de um programa Go.
 */
+
+// Println quer dizer "print line".
